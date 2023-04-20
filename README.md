@@ -16,7 +16,7 @@ Hi, I'm Jessie! I'm a dedicated software engineer and machine learning enthusias
   Sep. 2019 - Jun. 2023\
   🧠 GPA: 3.92, Department Ranking for previous semester: 5/97
 
-## 💼 Work Experience
+## 💼 Projects
 
 ### 🌐 [STYLiSH E-commerce Website](https://appworks.hychin.me)
 
