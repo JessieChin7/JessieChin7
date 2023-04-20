@@ -54,4 +54,4 @@ Hi, I'm Jessie! I'm a dedicated software engineer and machine learning enthusias
 
 - 📧 Email: [yuan2001@live.com](mailto:yuan2001@live.com)
 - 📞 Phone: 0952-232-168
-- 🌏 Location: New Taipei City
+- 🌏 Location: Taipei, Taiwan
