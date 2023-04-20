@@ -6,8 +6,8 @@ I'm Hsiao-Yuan (Jessie) Chin, a passionate student in Psychology and Information
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white&link=https://github.com/JessieChin7)](https://github.com/JessieChin7)
 
 ### 📚 Education
-- **Master's degree** in Information Management, National Taiwan University (2023 - Expected)
-- **Bachelor of Science** in Psychology, National Taiwan University (2019 - 2023)
+- **Master of Business Administration in Management Information Systems**, National Taiwan University (2023 - Expected 2025)
+- **Bachelor of Science in Psychology**, National Taiwan University (2019 - 2023)
 
 ### 💻 Projects
 - 🛍️ [**STYLiSH E-commerce Website**](https://appworks.hychin.me) - Developed an e-commerce web app with React and Node.js, established AWS and Docker-based cloud infrastructures, and integrated third-party APIs.
