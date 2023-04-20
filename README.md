@@ -14,7 +14,7 @@ Hi, I'm Jessie! I'm a dedicated software engineer and machine learning enthusias
 - **Bachelor of Science in Psychology**\
   National Taiwan University\
   Sep. 2019 - Jun. 2023\
-  🧠 GPA: 3.92, Department Ranking for previous semester: 5/97
+  🧠 GPA: 3.92, 111-1 Academic Achievement Award
 
 ## 💼 Projects
 
