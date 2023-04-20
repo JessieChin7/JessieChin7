@@ -12,7 +12,7 @@ I'm Hsiao-Yuan (Jessie) Chin, a passionate student in Psychology and Information
 ### 💻 Projects
 - 🛍️ [**STYLiSH E-commerce Website**](https://appworks.hychin.me) - Developed an e-commerce web app with React and Node.js, established AWS and Docker-based cloud infrastructures, and integrated third-party APIs.
 - 📈 [**Quantitative Trading Platform**](https://cat-jessie-vm.iottalktw.com/) - Developed a user-friendly quantitative trading platform website service and integrated major exchange APIs services.
-- 🌐 [**Social Media Text Mining Research**](https://github.com/JessieChin7/TextMining) - Conducted text mining research with TFIDF and BERT algorithms and utilized data visualization in Python.
+- 🌐 [**Social Media Text Mining Research**] - Conducted text mining research with TFIDF and BERT algorithms and utilized data visualization in Python.
 - 🎨 [**Color Experiment Project**](https://github.com/JessieChin7/Color-experiments) - Developed a 3D interactive plotting program to support conversion between different color spaces using Python.
 
 ### 👩‍💼 Experiences
