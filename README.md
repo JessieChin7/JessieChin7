@@ -8,9 +8,9 @@ Feel free to reach out to me via [email](mailto:yuan2001@live.com) or connect wi
 - **Bachelor of Science in Psychology**, National Taiwan University (2019 - 2023)
 
 ## 💻 Projects
-- 🛍️ [**STYLiSH E-commerce Website**](https://appworks.hychin.me) 
+- 🛍️ **STYLiSH E-commerce Website**]
   - Developed an e-commerce web app with React and Node.js, established AWS and Docker-based cloud infrastructures, and integrated third-party APIs.
-- 📈 [**Quantitative Trading Platform**](https://cat-jessie-vm.iottalktw.com/) 
+- 📈 **Quantitative Trading Platform**
   - Developed a user-friendly quantitative trading platform website service and integrated major exchange APIs services.
 - 🌐 **Social Media Text Mining Research** 
   - Conducted text mining research with TFIDF and BERT algorithms and utilized data visualization in Python.
