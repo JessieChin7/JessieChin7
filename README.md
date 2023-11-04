@@ -7,6 +7,10 @@ Feel free to reach out to me via [email](mailto:yuan2001@live.com) or connect wi
 - **Master of Business Administration in Management Information Systems**, National Taiwan University (2023 - Expected 2025)<br>
 - **Bachelor of Science in Psychology**, National Taiwan University (2019 - 2023)
 
+## 📝 Publications
+- 📄 [**Palette-Based and Harmony-Guided Colorization for Vector Icons**](https://dl.acm.org/doi/abs/10.1145/3588028.3603668)
+  - Contributed as a co-author to a paper in Computer Graphics Forum, focusing on a novel GPU-accelerated colorization algorithm for vector icons.
+
 ## 💻 Projects
 - 🛍️ **STYLiSH E-commerce Website**
   - Developed an e-commerce web app with React and Node.js, established AWS and Docker-based cloud infrastructures, and integrated third-party APIs.
@@ -22,6 +26,7 @@ Feel free to reach out to me via [email](mailto:yuan2001@live.com) or connect wi
 - **AppWorks School Software Engineering Campus Program** - Trainee<br>
 - **Create Art Talks & NYCU** - Back-end Developer Intern
 - **Programming Design & Programming for Business Computing in NTUIM** - Teaching Assistant
+- **Database Management in NTUIM** - Teaching Assistant
 - **Interactive Graphics (and Multimedia) Laboratory in NTUIM & NTUCSIE** - Research Assistant
 
 ## 💻 Tech Stack
