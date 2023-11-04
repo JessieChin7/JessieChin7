@@ -9,7 +9,8 @@ Feel free to reach out to me via [email](mailto:yuan2001@live.com) or connect wi
 
 ## 📝 Publications
 - 📄 [**Palette-Based and Harmony-Guided Colorization for Vector Icons**](https://dl.acm.org/doi/abs/10.1145/3588028.3603668)
-  - Contributed as a co-author to a paper in Computer Graphics Forum, focusing on a novel GPU-accelerated colorization algorithm for vector icons.
+  - Computer Graphics Forum, Vol. 42, No. 7, (Proceedings of Pacific Graphics 2023 (PG 2023), Daejeon, Korea), 2023.
+  - A palette-based colorization algorithm for vector icons without the need for rasterization.
 
 ## 💻 Projects
 - 🛍️ **STYLiSH E-commerce Website**
