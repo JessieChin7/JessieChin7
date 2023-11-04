@@ -3,7 +3,7 @@ I'm Hsiao-Yuan (Jessie) Chin, a passionate student in Psychology and Information
 Feel free to reach out to me via [email](mailto:yuan2001@live.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jessiechin727/)!
 
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jessiechin727/)](https://www.linkedin.com/in/jessiechin727/)[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white&link=https://github.com/JessieChin7)](https://github.com/JessieChin7)[![](https://visitcount.itsvg.in/api?id=JessieChin7&icon=0&color=6)](https://visitcount.itsvg.in)
-## 📚 Education<br>
+## 📚 Education
 - **Master of Business Administration in Management Information Systems**, National Taiwan University (2023 - Expected 2025)<br>
 - **Bachelor of Science in Psychology**, National Taiwan University (2019 - 2023)
 
