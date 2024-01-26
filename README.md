@@ -1,6 +1,9 @@
 ## Hi there 👋
-I'm Hsiao-Yuan (Jessie) Chin, a passionate student in Psychology and Information Management from National Taiwan University, focusing on Human-Computer Interaction (HCI), Software Engineering, and Interactive Graphics. I love integrating technology and human interaction to create valuable and diverse applications.
-Feel free to reach out to me via [email](mailto:yuan2001@live.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jessiechin727/)!
+I'm Hsiao-Yuan (Jessie) Chin, a Master's student in Information Management at NTU with a rich background in Psychology. My academic pursuits are focused on blending Information Technology, Psychology, Management, and UI/UX Design.
+
+I am deeply invested in Human-Computer Interaction, Artificial Intelligence, and Computer Graphics, actively contributing to research projects at NTU's Communication and Multimedia Laboratory. With a broad range of experience spanning computer graphics research, software, and web development, and complemented by scholarly publications, I am passionate about applying interdisciplinary knowledge to solve real-world challenges.
+
+I'm currently exploring internship opportunities in AI, software engineering, and IT development. If you’re interested in collaborating or just want to chat, feel free to reach out via [email](mailto:yuan2001@live.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jessiechin727/)!
 
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jessiechin727/)](https://www.linkedin.com/in/jessiechin727/)[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white&link=https://github.com/JessieChin7)](https://github.com/JessieChin7)[![](https://visitcount.itsvg.in/api?id=JessieChin7&icon=0&color=6)](https://visitcount.itsvg.in)
 ## 📚 Education
