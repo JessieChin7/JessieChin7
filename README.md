@@ -32,6 +32,10 @@ I'm currently exploring internship opportunities in AI, software engineering, an
 
 
 ## 💻 Projects
+- 🖼️ **VisProg Framework Enhancement with LLM Integration**
+  - Enhanced the VisProg framework by integrating Large Language Models (LLMs) like Llama2 and GPT-3 for advanced computer vision tasks. 
+  - Implemented novel applications in style transfer, 2D to 3D conversion, super resolution, text to image, and depth estimation, improving adaptability and scalability.
+  - Addressed cost efficiency by transitioning to open-source LLMs and innovating with technologies like DFN and CLIP for improved classification accuracy.
 - 🛍️ **STYLiSH E-commerce Website**
   - Developed an e-commerce web app with React and Node.js, established AWS and Docker-based cloud infrastructures, and integrated third-party APIs.
 - 📈 **Quantitative Trading Platform**
