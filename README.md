@@ -15,6 +15,22 @@ I'm currently exploring internship opportunities in AI, software engineering, an
   - Computer Graphics Forum, Vol. 42, No. 7, (Proceedings of Pacific Graphics 2023 (PG 2023), Daejeon, Korea), 2023.
   - A palette-based colorization algorithm for vector icons without the need for rasterization.
 
+## 🎓 Courses
+- 📊 **Computer Vision Practice with Deep Learning @ NTU CSIE 2023 Spring**
+  - Projects on Transformer-Based Object Detection, Generic Object Detection, and Data Augmentation.
+  - Techniques: DINO framework, DETR models, knowledge distillation, CLIP, RegionCLIP, BLIP2, GLIGEN.
+  - Achievements: Improved object detection accuracy, addressed data imbalance, published academic papers.
+- 📝 **Information Retrieval and Text Mining @ NTUIM 2023 Spring**
+  - Assignments in Term Extraction, TF-IDF Vectorization, Multinomial Naive Bayes Classifier, and Hierarchical Agglomerative Clustering.
+  - Skills: Text processing, cosine similarity calculation, document classification, cluster analysis.
+  - Tools: Porter Stemmer, Python, cosine similarity function, custom HEAP for clustering.
+- 🖥️ **Human Computer Interaction and User Studies @ NTUIM 2023 Spring**
+  - Developed the "Gift 4 U" cross-platform mobile application.
+  - Technologies: React Native, Expo, TypeScript.
+  - Features: User Authentication, Search Functionality, Shopping Cart, Profile Management, Gift Games.
+
+
+
 ## 💻 Projects
 - 🛍️ **STYLiSH E-commerce Website**
   - Developed an e-commerce web app with React and Node.js, established AWS and Docker-based cloud infrastructures, and integrated third-party APIs.
