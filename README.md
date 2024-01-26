@@ -16,15 +16,15 @@ I'm currently exploring internship opportunities in AI, software engineering, an
   - A palette-based colorization algorithm for vector icons without the need for rasterization.
 
 ## 🎓 Courses
-- 📊 **Computer Vision Practice with Deep Learning @ NTU CSIE 2023 Spring**
+- 📊 [**Computer Vision Practice with Deep Learning @ NTU CSIE 2023 Spring**](https://github.com/JessieChin7/CVPDL-NTUCSIE-2023)
   - Projects on Transformer-Based Object Detection, Generic Object Detection, and Data Augmentation.
   - Techniques: DINO framework, DETR models, knowledge distillation, CLIP, RegionCLIP, BLIP2, GLIGEN.
   - Achievements: Improved object detection accuracy, addressed data imbalance, published academic papers.
-- 📝 **Information Retrieval and Text Mining @ NTUIM 2023 Spring**
+- 📝 [**Information Retrieval and Text Mining @ NTUIM 2023 Spring**](https://github.com/JessieChin7/IRTM-NTUIM-2023)
   - Assignments in Term Extraction, TF-IDF Vectorization, Multinomial Naive Bayes Classifier, and Hierarchical Agglomerative Clustering.
   - Skills: Text processing, cosine similarity calculation, document classification, cluster analysis.
   - Tools: Porter Stemmer, Python, cosine similarity function, custom HEAP for clustering.
-- 🖥️ **Human Computer Interaction and User Studies @ NTUIM 2023 Spring**
+- 🖥️ [**Human Computer Interaction and User Studies @ NTUIM 2023 Spring**](https://github.com/JessieChin7/Gift-4-U-App)
   - Developed the "Gift 4 U" cross-platform mobile application.
   - Technologies: React Native, Expo, TypeScript.
   - Features: User Authentication, Search Functionality, Shopping Cart, Profile Management, Gift Games.
