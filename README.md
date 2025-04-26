@@ -1,9 +1,12 @@
 ## Hi there 👋
-I'm Hsiao-Yuan (Jessie) Chin, a Master's student in Information Management at NTU with a rich background in Psychology. My academic pursuits are focused on blending Information Technology, Psychology, Management, and UI/UX Design.
 
-I am deeply invested in Human-Computer Interaction, Artificial Intelligence, and Computer Graphics, actively contributing to research projects at NTU's Communication and Multimedia Laboratory. With a broad range of experience spanning computer graphics research, software, and web development, and complemented by scholarly publications, I am passionate about applying interdisciplinary knowledge to solve real-world challenges.
+I'm Jessie Chin, a Master's student in Information Management at NTU with a background in Psychology and a strong foundation in software engineering, AI, and intelligent systems.
 
-I'm currently exploring internship opportunities in AI, software engineering, and IT development. If you’re interested in collaborating or just want to chat, feel free to reach out via [email](mailto:yuan2001@live.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jessiechin727/)!
+Currently, I'm a Research and Development Intern at Microsoft Taiwan, focusing on AI-powered local search and user behavior analysis. I also have research experience in Human-Computer Interaction, Computer Graphics, and UI/UX Design, supported by academic publications.
+
+I'm passionate about bridging technology and human needs through interdisciplinary approaches. I'm now seeking full-time roles in R&D, AI and Backend, where I can contribute my skills to real-world challenges and make a meaningful impact.
+
+📫 Feel free to reach out via [email](mailto:yuan2001@live.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jessiechin727/)!
 
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jessiechin727/)](https://www.linkedin.com/in/jessiechin727/)[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white&link=https://github.com/JessieChin7)](https://github.com/JessieChin7)[![](https://visitcount.itsvg.in/api?id=JessieChin7&icon=0&color=6)](https://visitcount.itsvg.in)
 ## 📚 Education
@@ -11,10 +14,29 @@ I'm currently exploring internship opportunities in AI, software engineering, an
 - **Bachelor of Science in Psychology**, National Taiwan University (2019 - 2023)
 
 ## 📝 Publications
+- 📄 [**AutoSketch: VLM-assisted Style-Aware Vector Sketch Completion**](https://arxiv.org/abs/2502.06860)
+  - arXiv preprint, 2025.
+  - Introduces a style-aware vector sketch completion method using vision-language models (VLMs) to preserve and replicate diverse sketch styles through natural language descriptions and executable style adjustment.
+
 - 📄 [**Palette-Based and Harmony-Guided Colorization for Vector Icons**](https://dl.acm.org/doi/abs/10.1145/3588028.3603668)
   - Computer Graphics Forum, Vol. 42, No. 7, (Proceedings of Pacific Graphics 2023 (PG 2023), Daejeon, Korea), 2023.
-  - A palette-based colorization algorithm for vector icons without the need for rasterization.
+  - Proposes a palette-based colorization algorithm for vector icons without rasterization, enhancing stylistic control and semantic consistency.
 
+## 💻 Projects
+- 🖼️ **VisProg Framework Enhancement with LLM Integration**
+  - Enhanced the VisProg framework by integrating Large Language Models (LLMs) like Llama2 and GPT-3 for advanced computer vision tasks. 
+  - Implemented novel applications in style transfer, 2D to 3D conversion, super resolution, text to image, and depth estimation, improving adaptability and scalability.
+  - Addressed cost efficiency by transitioning to open-source LLMs and innovating with technologies like DFN and CLIP for improved classification accuracy.
+- 🛍️ [**STYLiSH E-commerce Website**](https://github.com/JessieChin7/Campus-Program03)
+  - Developed an e-commerce web application with React and Node.js.
+  - Built cloud infrastructure using AWS and Docker, and integrated third-party APIs for enhanced functionality.
+- 📈 [**A Quantitative Trading Platform for Non-Programmers**](https://github.com/CaslowChien/Crypto-autotrading-platform)
+  - Led a team to design and develop a modular trading platform, winning 🥉 Third Place in the Coding 101 Competition.
+  - Responsible for front-end development and front-end/back-end integration.
+  - Designed a user-friendly UI for visual strategy building, real-time data analysis, and seamless exchange API integration.
+- 🎨 [**Color Experiment Project**](https://github.com/JessieChin7/Color-experiments)
+  - Built a 3D interactive plotting tool for color space conversion using Python.
+ 
 ## 🎓 Courses
 - 📊 [**Computer Vision Practice with Deep Learning @ NTU CSIE 2023 Spring**](https://github.com/JessieChin7/CVPDL-NTUCSIE-2023)
   - Projects on Transformer-Based Object Detection, Generic Object Detection, and Data Augmentation.
@@ -29,23 +51,8 @@ I'm currently exploring internship opportunities in AI, software engineering, an
   - Technologies: React Native, Expo, TypeScript.
   - Features: User Authentication, Search Functionality, Shopping Cart, Profile Management, Gift Games.
 
-
-
-## 💻 Projects
-- 🖼️ **VisProg Framework Enhancement with LLM Integration**
-  - Enhanced the VisProg framework by integrating Large Language Models (LLMs) like Llama2 and GPT-3 for advanced computer vision tasks. 
-  - Implemented novel applications in style transfer, 2D to 3D conversion, super resolution, text to image, and depth estimation, improving adaptability and scalability.
-  - Addressed cost efficiency by transitioning to open-source LLMs and innovating with technologies like DFN and CLIP for improved classification accuracy.
-- 🛍️ **STYLiSH E-commerce Website**
-  - Developed an e-commerce web app with React and Node.js, established AWS and Docker-based cloud infrastructures, and integrated third-party APIs.
-- 📈 **Quantitative Trading Platform**
-  - Developed a user-friendly quantitative trading platform website service and integrated major exchange APIs services.
-- 🌐 **Social Media Text Mining Research** 
-  - Conducted text mining research with TFIDF and BERT algorithms and utilized data visualization in Python.
-- 🎨 [**Color Experiment Project**](https://github.com/JessieChin7/Color-experiments) 
-  - Developed a 3D interactive plotting program to support conversion between different color spaces using Python.
-
 ## 👩‍💼 Experiences
+- **Microsoft Taiwan** – Research & Development Intern<br>
 - **OpenHCI 2023** - Technology Minister<br>
 - **AppWorks School Software Engineering Campus Program** - Trainee<br>
 - **Create Art Talks & NYCU** - Back-end Developer Intern
