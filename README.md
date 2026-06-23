@@ -27,7 +27,7 @@ Currently, I am building enterprise-grade LLM agents and system observability to
   - *Computer Graphics Forum (Pacific Graphics 2023).*
 
 **🚀 Featured Projects**
-- 🎁 **Gift 4 U: Gamified Gift-Giving Mobile App**
+- 🎁 [**Gift 4 U: Gamified Gift-Giving Mobile App**](https://github.com/JessieChin7/Gift-4-U-App)
   - Designed and developed a cross-platform mobile application (iOS/Android) using React Native, Expo, and TypeScript; presented at **TAICHI 2023**.
   - Built comprehensive features including user authentication, search functionality, and interactive gift-giving mini-games, validated through extensive user studies.
 - 🖼️ **VisProg Framework Enhancement with LLM Integration**
